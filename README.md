@@ -5,3 +5,5 @@ This repository contains no code and instead of a (small) collection of reports 
 Some information about specific reports:
 
 `SCRiPTeX-Documentation.pdf` follows the `SCRiPTeX` repository and is comprised of roughly 90%-95% of my own writing with the rest a joint effort between other team members.
+
+`FGR Fractal Generation.pdf` follows the `fractal-generator` repository.
