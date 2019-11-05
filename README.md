@@ -8,4 +8,4 @@ Some information about specific reports:
 
 `FGR Fractal Generation.pdf` follows the `fractal-generator` repository.
 
-`genetic-decipher-document` follows the `genetic-decipher- repository.
+`genetic-decipher-document` follows the `genetic-decipher` repository.
