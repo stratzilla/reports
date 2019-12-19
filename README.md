@@ -11,3 +11,5 @@ Some information about specific reports:
 `genetic-decipher-document.pdf` follows the `genetic-decipher` repository.
 
 `pso-rastrigin-document.pdf` follows the `pso-rastrigin` repository.
+
+`chess-engine-document.pdf` follows the `chess-engine` repository.
