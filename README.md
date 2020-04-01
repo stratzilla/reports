@@ -13,3 +13,5 @@ Some information about specific reports:
 `pso-rastrigin-document.pdf` follows the `pso-rastrigin` repository.
 
 `chess-engine-document.pdf` follows the `chess-engine` repository.
+
+`id3-nn-document.pdf` follows the `id3-decision-tree` and `backprop-neural-network` repositories.
