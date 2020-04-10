@@ -1,6 +1,6 @@
 # reports
 
-This repository contains no code and instead of a (small) collection of reports I've written. This is not meant for anything but my own posterity and records. Some reports are more thorough than others and they may follow different formats (IEEE or not, formal or casual, etc). Unless otherwise noted, all work is solely my own writing.
+This repository contains no code and instead of a (small) collection of reports, papers, slides, etc I've written. This is not meant for anything but my own posterity and records. Some reports are more thorough than others and they may follow different formats (IEEE or not, formal or casual, etc). Unless otherwise noted, all work is solely my own writing.
 
 Some information about specific reports:
 
@@ -15,3 +15,5 @@ Some information about specific reports:
 `chess-engine-document.pdf` follows the `chess-engine` repository.
 
 `id3-nn-document.pdf` follows the `id3-decision-tree` and `backprop-neural-network` repositories.
+
+`k-means-document.pdf` follows the `k-means-clustering` repository.
