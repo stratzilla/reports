@@ -17,3 +17,5 @@ Some information about specific reports:
 `id3-nn-document.pdf` follows the `id3-decision-tree` and `backprop-neural-network` repositories.
 
 `k-means-document.pdf` follows the `k-means-clustering` repository.
+
+`mh-compare-document.pdf` follows the `metaheuristic-training-networks` repository.
