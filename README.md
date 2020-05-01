@@ -4,18 +4,18 @@ This repository contains no code and instead of a (small) collection of reports,
 
 Some information about specific reports:
 
-`SCRiPTeX-Documentation.pdf` follows the `SCRiPTeX` repository, approximately 90-95% my writing.
+`SCRiPTeX-Documentation.pdf` follows the <a href="https://github.com/stratzilla/SCRiPTeX">`SCRiPTeX`</a> repository, approximately 90-95% my writing.
 
-`FGR Fractal Generation.pdf` follows the `fractal-generator` repository.
+`FGR Fractal Generation.pdf` follows the <a href="https://github.com/stratzilla/fractal-generator">`fractal-generator`</a> repository.
 
-`genetic-decipher-document.pdf` follows the `genetic-decipher` repository.
+`genetic-decipher-document.pdf` follows the <a href="https://github.com/stratzilla/genetic-decryption">`genetic-decryption`</a> repository.
 
-`pso-rastrigin-document.pdf` follows the `pso-rastrigin` repository.
+`pso-rastrigin-document.pdf` follows the <a href="https://github.com/stratzilla/pso-rastrigin">`pso-rastrigin`</a> repository.
 
-`chess-engine-document.pdf` follows the `chess-engine` repository.
+`chess-engine-document.pdf` follows the <a href="https://github.com/stratzilla/chess-engine">`chess-engine`</a> repository.
 
-`id3-nn-document.pdf` follows the `id3-decision-tree` and `backprop-neural-network` repositories.
+`id3-nn-document.pdf` follows the <a href="https://github.com/stratzilla/id3-decision-tree">`id3-decision-tree`</a> and <a href="https://github.com/stratzilla/backprop-neural-network">`backprop-neural-network`</a> repositories.
 
-`k-means-document.pdf` follows the `k-means-clustering` repository.
+`k-means-document.pdf` follows the <a href="https://github.com/stratzilla/k-means-clustering">`k-means-clustering`</a> repository.
 
-`mh-compare-document.pdf` follows the `metaheuristic-training-networks` repository.
+`mh-compare-document.pdf` follows the <a href="https://github.com/stratzilla/metaheuristic-training-networks">`metaheuristic-training-networks`</a> repository.
